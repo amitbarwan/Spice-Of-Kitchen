@@ -17,8 +17,8 @@
 }
 .navid .btn{
 
-    color: white;
-    background-color: grey;
+    color: black;
+    background-color: rgb(219, 231, 200);
     font-size: 20px;
     margin-top: 400px;
     border-radius: 20px;
@@ -29,4 +29,12 @@
 .navid .btn:hover{
 
     background-color: green;
+}
+.classid2{
+    background-color: grey;
+    width: 2000px;
+    height: 1000px;
+    margin-top: 3px;
+    border-top-width: 0px;
+    padding-top: 4px;
 }
