@@ -17,6 +17,9 @@
     /* width: 100px; */
     
 }
+.navid ul{
+    padding-left: 0px;
+}
 .navid .btn{
 
     color: black;
