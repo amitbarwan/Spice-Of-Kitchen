@@ -1,0 +1,32 @@
+.classid{
+    display: flex;
+    background-image: url(/images/food.jpg);
+    width: 2000px;
+    height: 400px;
+}
+.imagelogo img{
+    width: 100px;
+    height: 100px;
+}
+.navid{
+    display: block;
+    margin-left: 600px;
+   
+    /* width: 100px; */
+    
+}
+.navid .btn{
+
+    color: white;
+    background-color: grey;
+    font-size: 20px;
+    margin-top: 400px;
+    border-radius: 20px;
+    padding: 5px 20px;
+  
+    
+}
+.navid .btn:hover{
+
+    background-color: green;
+}
