@@ -34,7 +34,9 @@
 }
 .navid .btn:hover{
 
-    background-color: green;
+    background-color: rgb(71, 77, 71);
+    color: tomato;
+    
 }
 .classid2{
     background-color: grey;
