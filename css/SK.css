@@ -27,7 +27,7 @@
 
     color: black ;
    
-    background-color: white;
+    background-color: rgb(95, 213, 243);
     font-size: 20px;
     margin-top: 400px;
     border-radius: 20px;
@@ -43,9 +43,9 @@
     
 }
 .classid2{
-    background-color: grey;
+    /* background-color: grey; */
     /* width: 1700px;*/
-    height: 1000px; 
+    height: 100%; 
     margin-top: 3px;
     border-top-width: 0px;
     padding-top: 4px;
@@ -57,7 +57,17 @@
     font-size: 70px;
     margin-top: 500px;
     margin-left: 500px;
-    color: white;
+    color: rgb(233, 230, 216);
     width: 600px;
     
+}
+body{
+    background-color: grey;
+    display: style;
+}
+.tabcontent{
+    display: none;
+    color: black
+    font-size: 15px;
+    font-family: cursive;
 }
