@@ -21,12 +21,13 @@
 }
 .navid ul{
     margin-top: -436px;
-    margin-left: 650px;
+    margin-left: 680px;
 }
 .navid .btn{
 
     color: black;
-    background-color: rgb(219, 231, 200);
+   
+    background-color: white;
     font-size: 20px;
     margin-top: 400px;
     border-radius: 20px;
@@ -53,9 +54,9 @@
 }
  #title h1{
 
-    font-size: 60px;
+    font-size: 70px;
     margin-top: 500px;
     margin-left: 500px;
     color: white;
-    width: 500px;
+    width: 600px;
 }
