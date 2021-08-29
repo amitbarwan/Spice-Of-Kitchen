@@ -5,6 +5,7 @@
     height: 400px;
     width: 100%;
     height: 600px; 
+    position: relative;
 }
 .imagelogo img{
     width: 200px;
@@ -54,12 +55,13 @@
 }
  #title h1{
 
-    font-size: 70px;
-    margin-top: 500px;
+    font-size: 80px;
+    margin-top: 400px;
     margin-left: 500px;
     color: rgb(233, 230, 216);
     width: 600px;
-    
+    /* font-family: 'Pacifico', cursive; */
+    font-family: 'Caveat', cursive;  
 }
 body{
     background-color: grey;
@@ -67,7 +69,28 @@ body{
 }
 .tabcontent{
     display: none;
-    color: black
-    font-size: 15px;
+    color: black;
+    font-size: 14px;
     font-family: cursive;
+   
+  
+}
+.tabcontent ul {
+    font-size: 20px;
+}
+.tabcontent ol{
+    font-size: 18px;
+
+}
+/* #ContactUs{
+    font-size: 20px;
+    text-decoration: ununderline;
+    color: greenyellow;
+} */
+.tabcontent h1{
+    color: greenyellow;
+} 
+.ContactId a{
+    color:black;
+    font-size: 18px;
 }
