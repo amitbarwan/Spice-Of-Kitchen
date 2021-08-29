@@ -82,6 +82,9 @@ body{
     font-size: 18px;
 
 }
+.tabcontent ol a{
+    color: white;
+}
 /* #ContactUs{
     font-size: 20px;
     text-decoration: ununderline;
@@ -91,6 +94,6 @@ body{
     color: greenyellow;
 } 
 .ContactId a{
-    color:black;
+    color:white;
     font-size: 18px;
 }
