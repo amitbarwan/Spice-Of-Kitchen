@@ -13,3 +13,11 @@ function OnClickHome(event,EventName){
     document.getElementById(EventName).style.display="block";
 
 }
+function displaytime() {
+
+    let time = new Date();
+    // let time = new time();
+    console.log(time);
+    document.getElementById('time').innerHTML = time;
+}
+setInterval(displaytime, 1000);
